@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Versioning;
 using System.Text;
-using ScriptCs.Logging;
+using ScriptCs.Logging; 
 
 namespace CShell.Hosting.Tests
 {
